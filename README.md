@@ -46,16 +46,16 @@ OnOS Technology is an innovative startup delivering end-to-end digital solutions
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=onossys&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=onossys&layout=compact&theme=tokyonight)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=onossys&theme=tokyonight)
 
 ---
 
 ## 🏆 Achievements
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark)
+![Trophies](https://github-profile-trophy.vercel.app/?username=onossys&theme=onedark)
 
 ---
 
@@ -69,21 +69,21 @@ OnOS Technology is an innovative startup delivering end-to-end digital solutions
 ---
 
 ## 📌 Featured Projects
-- 🚀 [Project Name](https://github.com/YOUR_USERNAME/project) — Smart system solution  
-- 🌐 [Project Name](https://github.com/YOUR_USERNAME/project) — Modern web platform  
-- ☁️ [Project Name](https://github.com/YOUR_USERNAME/project) — Cloud-based app  
+- 🚀 [Project Name](https://github.com/onossys/project) — Smart system solution  
+- 🌐 [Project Name](https://github.com/onossys/project) — Modern web platform  
+- ☁️ [Project Name](https://github.com/onossys/project) — Cloud-based app  
 
 ---
 
 ## 🌐 Connect With Us
-[![Website](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourdomain.com)
+[![Website](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ono)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook)](https://facebook.com)
 
 ---
 
 ## 🐍 Contribution Snake
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/onossys/onossys/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -93,4 +93,4 @@ If you like our work, support us ☕
 
 ---
 
-⭐️ Powered by OnOS Techno
+⭐️ Powered by OnOS Technology
