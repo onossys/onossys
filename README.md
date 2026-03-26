@@ -89,7 +89,7 @@ OnOS Technology is an innovative startup delivering end-to-end digital solutions
 
 ## ☕ Support Us
 If you like our work, support us ☕  
-[![Support](https://img.shields.io/badge/Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/YOUR_USERNAME)
+[![Support](https://img.shields.io/badge/Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/onos)
 
 ---
 
